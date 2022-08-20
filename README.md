@@ -1,8 +1,7 @@
-### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=MatiEthiopiaRoha)
 
-<img src="https://img.shields.io/badge/Mati%Ethiopia-is%20Available for a Remote Work-greenyellow" />
+
 
 
 <h1>Hello, I'm Mati Ethiopia<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height = "30px"> 😉</h1>
@@ -23,3 +22,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## My Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MatiEthiopiaRoha&count_private=true&theme=buefy&showicons=true)](https://github-readme-stats.vercel.app/api/?username=MatiEthiopiaRoha&count_private=true&theme=buefy&showicons=true)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiEthiopiaRoha&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiEthiopiaRoha&langs_count=5&theme=buefy)
+
+![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=MatiEthiopiaRoha)
