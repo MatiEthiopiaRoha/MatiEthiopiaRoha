@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=MatiEthiopiaRoha)
+
+<img src="https://img.shields.io/badge/Mati%Ethiopia-is%20Available for a Remote Work-greenyellow" />
+
+
+<h1>Hello, I'm Mati Ethiopia<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height = "30px"> 😉</h1>
+
+<br>
+
 <!--
 **MatiEthiopiaRoha/MatiEthiopiaRoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
