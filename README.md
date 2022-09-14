@@ -1,6 +1,10 @@
 
 ![](https://komarev.com/ghpvc/?username=MatiEthiopiaRoha)
 
+<h1 align="center">
+  <img src="https://github.com/MatiEthiopiaRoha/MatiEthiopiaRoha/blob/main/mati.svg" alt="Mati Ethiopia" />
+</h1>
+
 
 
 
